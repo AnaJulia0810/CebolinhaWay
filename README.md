@@ -1,4 +1,4 @@
-# Pega Pega - Jogo
+# CebolinhaWay
 ### Objetivo
 O objetivo principal deste projeto era criar um jogo interativo onde o personagem deve se movimentar para esquerda e direita para pegar objetos e esquivar de bombas que caem do topo da tela.
 
